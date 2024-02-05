@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+
+# Build files
+/build
+/dist
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Package files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Yarn
+yarn-error.log
+yarn.lock
+.pnp
+.pnp.js
