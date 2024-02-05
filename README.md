@@ -61,3 +61,35 @@ For simplicity, an in-memory data storage solution is implemented on the backend
 
 Developers should ensure that the backend is running and accessible before testing the frontend. Detailed API documentation can be generated to assist with integration and testing.
 
+
+## Install Dependencies
+Make sure you have Node.js installed on your machine. Then, navigate to the frontend and backend directories and run:
+
+
+```bash 
+npm install
+
+```
+## Frontend
+To run the frontend, use the following command in the frontend directory:
+
+```bash 
+npm start
+
+```
+
+This will start the React application, accessible in your browser at http://localhost:3000.
+
+## Backend
+To run the backend, use the following command in the backend directory:
+
+```bash 
+node app
+
+```
+
+Or, if you have nodemon installed:
+```bash 
+nodemon app
+
+```
